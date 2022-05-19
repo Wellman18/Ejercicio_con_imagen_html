@@ -18,3 +18,26 @@ html{
     margin: 0 auto;
 
 }
+
+img{
+    height: 50rem;
+    margin: 0.5rem 0;
+}
+
+.cajas{
+    display: inline-block;
+   margin: 1.7rem 2rem;
+   
+}
+
+.menu{
+    /*height: 10rem;*/
+    width: 50rem;
+    height: 6rem;
+    margin: 1rem 0;
+    background-color: burlywood;
+    font-size: 2rem;
+    margin: 0 auto;
+    
+    
+}
