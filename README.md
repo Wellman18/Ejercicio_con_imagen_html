@@ -9,3 +9,4 @@ Aparte del curso de "Git y GitHub" he tomado otros cursos de Platzi como:
 * PostgreSQL
 * Curso definitivo de HTML y CSS
 * Curso de JavaScript
+* Este archivo ha sido creado por Wellman
