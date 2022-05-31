@@ -11,3 +11,4 @@ Aparte del curso de "Git y GitHub" he tomado otros cursos de Platzi como:
 * Curso de JavaScript
 * Este archivo ha sido creado por Wellman
 * En este curso no solamente se hace uso de git sino que también de github
+* Disponible para todas ñlas edades
